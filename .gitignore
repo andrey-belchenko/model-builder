@@ -112,7 +112,4 @@ Desktop.ini
 .vite/
 
 # Project specific
-*.md
-!README.md
-!implementation-plan-first-steps.md
-!vue-flow-usage-plan.md
+# No blanket ignore of markdown files - they contain important documentation
